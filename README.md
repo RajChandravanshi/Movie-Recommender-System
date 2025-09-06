@@ -15,3 +15,5 @@ A machine learning–based application that recommends movies similar to the one
 
 ## Dataset  
 Uses preprocessed movie metadata (titles, genres, overviews, cast, crew).
+![Logo](./image/image.png)
+
